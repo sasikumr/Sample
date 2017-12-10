@@ -1,0 +1,43 @@
+[{
+    "id":1,
+    "name":"Ponvandu Agencies",
+    
+        "AddressLine1": "Anna Square Street",
+        "AddressLine2": "",
+        "AddressLine3":"",
+        "Locality":"",
+        "City":"Thriuvarur",
+        "State":"TN",
+        "Country":"IN",
+        "Zipcode":"610001",
+    
+    "GST_NO":"H38203483"
+},
+{
+    "id":2,
+    "name":"Sasikumar",
+    "GST_NO":"Y80765583",
+    "AddressLine1": "Anna Square Street",
+    "AddressLine2": "",
+    "AddressLine3":"",
+    "Locality":"",
+    "City":"Thriuvarur",
+    "State":"TN",
+    "Country":"IN",
+    "Zipcode":"610001"
+    
+},
+{
+    "id":3,
+    "name":"asikumar",
+    "AddressLine1": "Anna Square Street",
+    "AddressLine2": "",
+    "AddressLine3":"",
+    "Locality":"",
+    "City":"Thriuvarur",
+    "State":"TN",
+    "Country":"IN",
+    "Zipcode":"610001",
+    "GST_NO":"Y80765583"
+}
+]

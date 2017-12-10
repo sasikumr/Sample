@@ -1,0 +1,23 @@
+[{
+    "ProductID":1,
+    "Product_Name":"SOAP",    
+    "IsIGSTEnabled": false,
+    "QTY" : 1,
+    "Unit": "Box",
+    "SGST" : 9,
+    "CGST" : 9,
+    "TargetPrice": 240
+},
+{
+    "ProductID":2,
+    "Product_Name":"Beedi",    
+    "IsIGSTEnabled": false,
+    "QTY" : 1,
+    "Unit": "Bag",
+    "SGST" : 9,
+    "CGST" : 9,
+    "TargetPrice": 24000
+    
+}
+
+]
